@@ -35,7 +35,7 @@ form .field input {
     outline: none;
     font-size: 16px;
     padding: 5px 2px;
-    background-image: url('/Resources/user.png');
+    background-image: url('../Resources/user.png');
     background-repeat: no-repeat;
     background-position: left center; 
     padding-left: 30px; 
